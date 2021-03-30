@@ -4,7 +4,9 @@ Web app were users can solve Codeforces problems of similar ratings which also i
 ## How it works
 Realtime chat feature is implemented with websockets and problem link are fetched from the Codeforces API based on the type of room i.e. the problem rating.
 
-## Usage
+## Link - https://codeamigo-webapp.herokuapp.com/
+
+## Local Usage
 ```
 npm install
 npm run dev
