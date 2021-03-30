@@ -1,0 +1,21 @@
+{
+  "name": "codeamigo",
+  "version": "1.0.0",
+  "description": "Where people can solve coding problem and discuss on the chat",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Raj Gondalia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
